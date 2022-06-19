@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Vagner-Fisher\Vagner-Fisher\bin\Debug\Vagner-Fisher.exe.config
+C:\Users\User\Desktop\Vagner-Fisher\Vagner-Fisher\bin\Debug\Vagner-Fisher.exe
+C:\Users\User\Desktop\Vagner-Fisher\Vagner-Fisher\bin\Debug\Vagner-Fisher.pdb
+C:\Users\User\Desktop\Vagner-Fisher\Vagner-Fisher\obj\Debug\Vagner-Fisher.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vagner-Fisher\Vagner-Fisher\obj\Debug\Vagner-Fisher.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Vagner-Fisher\Vagner-Fisher\obj\Debug\Vagner-Fisher.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vagner-Fisher\Vagner-Fisher\obj\Debug\Vagner-Fisher.exe
+C:\Users\User\Desktop\Vagner-Fisher\Vagner-Fisher\obj\Debug\Vagner-Fisher.pdb
